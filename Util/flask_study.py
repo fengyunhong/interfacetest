@@ -1,9 +1,6 @@
 #coding=utf-8
-import sys
-import os
 import os
 base_path = os.getcwd()
-#sys.path.append(base_path)
 from flask import Flask
 from flask import request
 import json

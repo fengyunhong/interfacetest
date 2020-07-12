@@ -1,11 +1,7 @@
 import json
 import os
-import os
-import sys
 base_path = os.path.dirname(os.getcwd())
-#获取到了Util路径，切片截取最后的
-#base_path = base_path.replace('\\','/')
-#print(base_path)D:\PythonWorkSpace\interfacetest
+
 
 def read_json(file_name=None):
     if file_name == None:

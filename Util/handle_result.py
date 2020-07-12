@@ -2,7 +2,6 @@
 from deepdiff import DeepDiff
 from Util.handle_json import get_value
 import os
-import sys
 base_path =os.path.dirname(os.getcwd())
 
 #print(get_value('api3/getbanneradvertver2',file_name='\Config\code_message.json'))

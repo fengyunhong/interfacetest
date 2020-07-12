@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e75338-872b-4c54-ae2b-62c66179e719" name="Default Changelist" comment="" />
+    <list default="true" id="84e75338-872b-4c54-ae2b-62c66179e719" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/base_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/base_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/run_case_ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run/run_case_ddt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/run_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Run/run_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnittestCase/imooc_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnittestCase/imooc_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/condition_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/condition_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/flask_study.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/flask_study.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/handle_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/handle_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/handle_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/handle_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Util/handle_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/Util/handle_result.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d8MDFDfj6PWWLZ3PzzKQ5pj6v4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Util" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,7 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,29 +61,7 @@
       <recent name="D:\PythonWorkSpace\interfacetest\UnittestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_main">
-    <configuration name="base_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="interfacetest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/base_request.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_case_ddt.py">
     <configuration name="condition_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interfacetest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,22 +187,37 @@
       <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_case_ddt.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="interfacetest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Study/test_case_ddt.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Flask server.interfacetest" />
       <item itemvalue="Python.run_case_ddt" />
       <item itemvalue="Python.run_main" />
-      <item itemvalue="Python.base_request" />
       <item itemvalue="Python.condition_data" />
       <item itemvalue="Python.handle_result" />
       <item itemvalue="Python.handle_excel" />
+      <item itemvalue="Python tests.Unittests in test_case_ddt.py" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_main" />
-        <item itemvalue="Python.handle_excel" />
+        <item itemvalue="Python tests.Unittests in test_case_ddt.py" />
         <item itemvalue="Python.handle_result" />
         <item itemvalue="Python.condition_data" />
-        <item itemvalue="Python.base_request" />
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python.handle_excel" />
       </list>
     </recent_temporary>
   </component>
@@ -243,6 +253,7 @@
       <workItem from="1594125998524" duration="6616000" />
       <workItem from="1594137641281" duration="12000" />
       <workItem from="1594185439281" duration="677000" />
+      <workItem from="1594560753733" duration="1981000" />
     </task>
     <servers />
   </component>
@@ -258,29 +269,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594025469689" />
+    <state x="560" y="107" key="CommitChangelistDialog2" timestamp="1594562556356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562556356" />
     <state x="760" y="304" key="FileChooserDialogImpl" timestamp="1593959886387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="304" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1593959886387" />
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1594186117030">
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1594562781088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594136941424" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562781088" />
     <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594186117030" />
-    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1594186117030">
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1594562781087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594136941424" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562781087" />
     <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594186117030" />
-    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1594186117030">
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1594562781087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594136941424" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562781087" />
     <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594186117030" />
-    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1594186117030">
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1594562781087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594136941424" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562781087" />
     <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594186117030" />
     <state width="1877" height="252" key="GridCell.Tab.1.bottom" timestamp="1592749775182">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -298,10 +313,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="252" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1592749775182" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1593962264381">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594562756326">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1593962264381" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562756326" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594185456551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -311,6 +326,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="404" y="99" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1593420076559" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594562535516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1594562535516" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594129489622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -321,7 +340,7 @@
     <SUITE FILE_PATH="coverage/interfacetest$Flask__Util_flask_study_py_.coverage" NAME="Flask (Util/flask_study.py) Coverage Results" MODIFIED="1594024976007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_for_test_case_ddt_TestCase01_test_01.coverage" NAME="Unittests for test_case_ddt.TestCase01.test_01 Coverage Results" MODIFIED="1593705765589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_for_test_case01_TestCase01_test_03.coverage" NAME="Unittests for test_case01.TestCase01.test_03 Coverage Results" MODIFIED="1592124409068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnittestCase" />
-    <SUITE FILE_PATH="coverage/interfacetest$Unittests_in_test_case_ddt_py.coverage" NAME="Unittests in test_case_ddt.py Coverage Results" MODIFIED="1593955342731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
+    <SUITE FILE_PATH="coverage/interfacetest$Unittests_in_test_case_ddt_py.coverage" NAME="Unittests in test_case_ddt.py Coverage Results" MODIFIED="1594562658799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
     <SUITE FILE_PATH="coverage/interfacetest$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1594022593019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
     <SUITE FILE_PATH="coverage/interfacetest$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1594185637821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Run" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_for_test_case_ddt_TestCase01.coverage" NAME="Unittests for test_case_ddt.TestCase01 Coverage Results" MODIFIED="1593955203290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Study" />
@@ -333,9 +352,9 @@
     <SUITE FILE_PATH="coverage/interfacetest$handle_cookie.coverage" NAME="handle_cookie Coverage Results" MODIFIED="1593414397754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
     <SUITE FILE_PATH="coverage/interfacetest$run_case_ddt.coverage" NAME="run_case_ddt Coverage Results" MODIFIED="1594027460189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Run" />
     <SUITE FILE_PATH="coverage/interfacetest$handle_json.coverage" NAME="handle_json Coverage Results" MODIFIED="1594127380137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
-    <SUITE FILE_PATH="coverage/interfacetest$condition_data.coverage" NAME="condition_data Coverage Results" MODIFIED="1594127991168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
+    <SUITE FILE_PATH="coverage/interfacetest$condition_data.coverage" NAME="condition_data Coverage Results" MODIFIED="1594561849079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
     <SUITE FILE_PATH="coverage/interfacetest$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1592401844813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/interfacetest$handle_result.coverage" NAME="handle_result Coverage Results" MODIFIED="1594128885155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
+    <SUITE FILE_PATH="coverage/interfacetest$handle_result.coverage" NAME="handle_result Coverage Results" MODIFIED="1594562199701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Util" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_for_imooc_case_ImoocCase_test_ajaxins.coverage" NAME="Unittests for imooc_case.ImoocCase.test_ajaxins Coverage Results" MODIFIED="1592494353622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnittestCase" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_in_test_case01_py.coverage" NAME="Unittests in test_case01.py Coverage Results" MODIFIED="1592399201802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnittestCase" />
     <SUITE FILE_PATH="coverage/interfacetest$Unittests_for_mock_study_TestLogin_test_01.coverage" NAME="Unittests for mock_study.TestLogin.test_01 Coverage Results" MODIFIED="1592114427758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

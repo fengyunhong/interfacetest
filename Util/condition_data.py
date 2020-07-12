@@ -72,5 +72,8 @@ if __name__ == '__main__':
                     }
                 ]
         }}
-    key='data.banner.[0].id'
-    print(get_depend_data(data,key))
+    #key='data.banner.[0].id'
+    #print(get_depend_data(data,key))
+    data['status']='test'
+    print(data)
+    data['sdsf ']='123'

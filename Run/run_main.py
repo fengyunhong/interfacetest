@@ -6,7 +6,6 @@ from Util.handle_cookie import get_cookie_value,write_cookie
 from Util.handle_header import get_header
 from Util.condition_data import get_data
 import os
-import sys
 base_path = os.path.dirname(os.getcwd())
 print(base_path)
 class RunMain():

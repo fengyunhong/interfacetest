@@ -1,8 +1,5 @@
 import json
 import requests
-import os
-import configparser
-from Util.handle_json import get_value
 from Util.handle_ini import handler_ini
 from Util.handle_cookie import get_cookie_value,write_cookie
 class BaseRequest:

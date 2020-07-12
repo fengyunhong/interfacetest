@@ -1,8 +1,5 @@
-import os
 from datetime import datetime
-
 import os
-import sys
 base_path = os.path.dirname(os.getcwd())
 import ddt
 import unittest

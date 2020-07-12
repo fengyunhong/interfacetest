@@ -1,6 +1,5 @@
 from datetime import datetime
 
-import requests
 import unittest
 from Base.base_request import request
 import HTMLTestRunner

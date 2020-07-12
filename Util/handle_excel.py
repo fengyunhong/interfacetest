@@ -1,14 +1,5 @@
 import openpyxl
 import os
-# open_excel = openpyxl.load_workbook('D:\PythonWorkSpace\interfacetest\Case\imooc-ori.xlsx')
-# sheet_name = open_excel.sheetnames
-# print(list(sheet_name))
-# excel_value = open_excel[sheet_name[0]]
-# print(excel_value)
-# print(excel_value.cell(1,3).value)
-# print(excel_value.max_row)
-import os
-import sys
 
 base_path=os.path.dirname(os.getcwd())
 
